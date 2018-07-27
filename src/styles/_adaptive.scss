@@ -1,0 +1,73 @@
+// @media (max-width: 1024px) {
+//     .adaptive {
+//         .block {
+//             flex-flow: column wrap;
+//             justify-content: space-between;
+//             .block__item_big {
+//                 width: 100%;
+//             }
+//             .block__item_small {
+//                 width: 100%;
+//                 margin-top: 20px;
+//                 .box_order {
+//                     img {
+//                         height: 100px;
+//                     }
+//                     .about-all-items {
+//                         font-size: 1em;
+//                     }
+//                 }
+//             }
+//         }
+//     }
+// }
+// @media (max-width: 768px) {
+//     .adaptive {
+//         .block {
+//             .block__item_big {
+//                 .item_nav {
+//                     .nav {
+//                         font-size: 0.7em;
+//                     }
+//                 }
+//                 .item__content {
+//                     font-size: 0.8em;
+//                     .box__info-main {
+//                         .info-commentary {
+//                             a {
+//                                 font-size: 0.7em;
+//                             }
+//                         }
+//                         input {
+//                             font-size: 0.8em;
+//                         }
+//                     }
+//                 }
+//             }
+//             .block__item_small {
+//                 width: 100%;
+//                 margin-top: 20px;
+//                 .box_order {
+//                     img {
+//                         height: 70px;
+//                     }
+//                     .about-all-items {
+//                         font-size: 0.7em;
+//                     }
+//                 }
+//             }
+//             .box__info-delivery {
+//                 #adressStock {
+//                     flex-grow: 1;
+//                     max-width: 70%;
+//                 }
+//                 #typeOfDelivery {
+//                     max-width: 70%;
+//                 }
+//             }
+//         }
+//         .item_content-for-reg-user {
+//             font-size: 1.5em;
+//         }
+//     }
+// }
